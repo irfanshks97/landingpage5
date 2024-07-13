@@ -1,0 +1,24 @@
+.header {
+  width: 100%;
+  text-align: center;
+}
+
+.heading {
+  font-size: 1rem;
+  color: rgb(108, 106, 106);
+}
+
+.li_first {
+  margin-left: 20px;
+}
+.li_second {
+  margin-right: 50px;
+}
+@media screen and (min-width: 576px) {
+  .li_first {
+    margin-left: 50px;
+  }
+  .li_second {
+    margin-right: 50px;
+  }
+}

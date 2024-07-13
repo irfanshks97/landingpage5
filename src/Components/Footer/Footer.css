@@ -1,0 +1,27 @@
+footer {
+  background-color: rgba(80, 80, 80, 255);
+}
+.first_ul {
+  padding: 0px;
+}
+footer ul {
+  list-style-type: none;
+}
+footer a {
+  color: #e0dddb;
+}
+@media screen and (min-width: 576px) {
+  footer {
+    background-color: rgba(80, 80, 80, 255);
+  }
+  footer .first_ul {
+    font-size: 14px;
+    padding: 0px;
+  }
+  footer ul {
+    list-style-type: none;
+  }
+  footer a {
+    color: #e0dddb;
+  }
+}
